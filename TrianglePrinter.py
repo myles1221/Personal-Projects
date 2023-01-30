@@ -1,13 +1,6 @@
  
-variable_loop = 0
-
-import xdrlib
-
-
-
 print("Welcome to Baby Python")
 
-count= ""
 number = 0 
 k=0
 
